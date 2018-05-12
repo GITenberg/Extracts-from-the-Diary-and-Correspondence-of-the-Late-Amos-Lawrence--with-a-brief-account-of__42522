@@ -1,0 +1,39 @@
+_repo: Extracts-from-the-Diary-and-Correspondence-of-the-Late-Amos-Lawrence--with-a-brief-account-of__42522
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42522-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Lawrence, Amos
+    birthdate: 1786
+    deathdate: 1852
+    gutenberg_agent_id: '41728'
+    url: http://www.gutenberg.org/2009/agents/41728
+  editor:
+    agent_name: Lawrence, William R.
+    alias: Lawrence, William Richards
+    birthdate: 1812
+    deathdate: 1855
+    gutenberg_agent_id: '41729'
+    url: http://www.gutenberg.org/2009/agents/41729
+description: ''
+gutenberg_issued: '2013-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42522'
+  lccn: '11026863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lawrence, Amos, 1786-1852 -- Correspondence'
+- !lcsh 'Merchants -- Massachusetts -- Boston -- Biography'
+- !lcsh 'Philanthropists -- Massachusetts -- Boston -- Biography'
+- !lcc 'F001'
+- !lcsh 'Lawrence, Amos, 1786-1852 -- Diaries'
+- !lcsh 'Boston (Mass.) -- Biography'
+title: Extracts from the Diary and Correspondence of the Late Amos Lawrence; with
+  a brief account of some incidents of his life
+url: http://www.gutenberg.org/ebooks/42522
